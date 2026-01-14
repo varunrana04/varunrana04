@@ -1,41 +1,55 @@
-# 👋 Hi, I’m @varunrana04
+# 👋 Hi, I'm Varun Rana
 
-I’m a **Data Science | AI/ML enthusiast** with a strong foundation in **analytics, computer vision, NLP, and predictive modeling**.  
-Passionate about building **end-to-end ML solutions** from data preprocessing to deployment.
+**Data Scientist | AI/ML Engineer | Quant Developer**
 
----
-
-## 🔭 I’m Currently Learning
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-4.2-blue?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+Building intelligent systems at the intersection of **Machine Learning**, **Computer Vision**, and **Algorithmic Trading**.
 
 ---
 
-## 💡 Skills & Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-1.13-orange?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.25-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-3.3-blue?style=for-the-badge)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Detection-red?style=for-the-badge)
+## 🚀 What I Do
+
+🏥 **Medical AI** — Computer vision systems for healthcare diagnostics (93% accuracy)  
+📊 **Machine Learning** — End-to-end ML pipelines with explainability  
+📈 **Algorithmic Trading** — Quantitative strategies for crypto & Indian markets  
+🌍 **Environmental AI** — Satellite imagery analysis for deforestation monitoring  
 
 ---
 
-## 🌱 I’m Currently Working On
-- End-to-end **computer vision projects** (X-Ray analysis, Hip-Heel detection, Polyp detection)  
-- **Tabular ML pipelines** with explainability (Credit Card Fraud, Ensemble Models)  
-- **Interactive ML apps** using Gradio & Streamlit  
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, JavaScript  
+**ML/DL:** TensorFlow, PyTorch, Scikit-learn, XGBoost, YOLO  
+**Computer Vision:** OpenCV, U-Net, Attention Networks  
+**NLP:** HuggingFace Transformers, BERT  
+**Trading:** Binance API, Zerodha Kite, Backtesting  
+**Deployment:** Gradio, Streamlit, Flask  
 
 ---
 
-## 🤝 Let’s Connect
-- 📫 Email: **varunrana.business@gmail.com**  
-- 🔗 LinkedIn: [varun-rana-771a9917a](https://www.linkedin.com/in/varun-rana-771a9917a)  
-- 🐦 GitHub: [@varunrana04](https://github.com/varunrana04)  
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Pneumonia Detector**](https://github.com/varunrana04/X-Ray-Image-and-Report-Generation) | Automated X-ray diagnosis with 93% accuracy + NLP report generation | YOLOv8, Transformers, Gradio |
+| [**Stomach Disease Detection**](https://github.com/varunrana04/Binary-Classifiacation-Ulcer-Detection-Model) | Polyp & ulcer detection from endoscopy images | YOLO11L, Medical AI |
+| [**Tree-Sight**](https://github.com/varunrana04/Tree-Sight-Forest-Detection) | Satellite imagery analysis for deforestation monitoring | CNN, Remote Sensing |
+| [**PredictIQ**](https://github.com/varunrana04/Sales-Forecasting-Model) | M5 Competition sales forecasting with hierarchical time-series | XGBoost, LightGBM |
+| [**FraudShield**](https://github.com/varunrana04/Credit-Card-Fraud) | Credit card fraud detection on imbalanced data | Ensemble Methods |
 
 ---
 
-## ⚡ Fun Fact
-I’m always **learning something new every day** and love **turning complex datasets into actionable insights**.  
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunrana04&show_icons=true&theme=tokyonight&hide_border=true)
 
+---
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-varunrana.business%40gmail.com-red?style=flat&logo=gmail)](mailto:varunrana.business@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Rana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varun-rana-771a9917a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=flat&logo=google-chrome)](https://varunrana04.github.io/portfolio)
+
+---
+
+*Open to opportunities in Data Science, AI/ML Engineering, and Quantitative Trading. Can relocate anywhere globally.*
