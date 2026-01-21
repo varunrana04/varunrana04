@@ -48,7 +48,7 @@ Building intelligent systems at the intersection of **Machine Learning**, **Comp
 
 [![Email](https://img.shields.io/badge/Email-varunrana.business%40gmail.com-red?style=flat&logo=gmail)](mailto:varunrana.business@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Rana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varun-rana-771a9917a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=flat&logo=google-chrome)](https://varunrana04.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=flat&logo=google-chrome)](https://varun-portfolio-eta.vercel.app/)
 
 ---
 
