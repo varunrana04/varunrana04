@@ -1,55 +1,78 @@
-# 👋 Hi, I'm Varun Rana
+<div align="center">
 
-**Data Scientist | AI/ML Engineer | Quant Developer**
+  <h1><code>varun_rana<span class="cursor">_</span></code></h1>
+  
+  <p><b>He trains the models. They occasionally don't hallucinate.</b></p>
+  
+  <p>
+    <code>Machine Learning Engineer</code> | <code>Quantitative Analytics & Computer Vision</code> | <code>BU MS Data Science '27</code>
+  </p>
 
-Building intelligent systems at the intersection of **Machine Learning**, **Computer Vision**, and **Algorithmic Trading**.
+  <p>
+    <a href="https://varun-portfolio-h2j30sixl-varun-ranas-projects-1ec5cf38.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&color=00ff00&logoColor=000000" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/varun-rana-771a9917a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-HIRE_ME-blue?style=for-the-badge&logo=linkedin&color=0077b5" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+## `##` the_whole_idea
+
+I build "intelligent systems" (which is a fancy way of saying I babysit Python scripts while they download 40GB of pip dependencies). 
+
+I specialize in crafting production-ready AI solutions and convincing stakeholders that we don't need a 70B parameter foundational model to predict if it's going to rain. 
+
+```diff
+- class EnterpriseAICloudBlockchainSynergy(Dataset):
+-     def __init__(self, data):
+-         # ChatGPT wrote this in 2023.
+-         # I don't know what it does but I'm afraid to delete it.
+-         self.data = data.apply(lambda x: x * 0) # wait what
++ from transformers import pipeline
++ classifier = pipeline("sentiment-analysis")
+```
+*> // same behavior. less enterprise jargon. zero chance of accidentally deleting the production database.*
+
+## `##` the_ladder
+
+Stop at the first model that holds.
+
+- **01. Does this need AI?** Can we just use an Excel VLOOKUP and go to lunch? Skip it.
+- **02. Does a regex solve it?** Use regex. If you now have two problems, use a switch statement.
+- **03. Does XGBoost solve it?** Use XGBoost. Don't add a 70 Billion parameter dependency just to sort an array.
+- **04. Only then:** Sell your kidney, rent an A100 GPU cluster, and pray the loss curve goes down. *(Or just hire me to do it properly).*
+
+## `##` tech_stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tf,scikitlearn,opencv,docker,git,linux,bash&theme=dark" />
+</div>
+
+<br>
+
+## `##` realistic_ai_simulator.exe
+
+```bash
+> Initialize A100 GPU cluster...
+> Loading 70B parameter model...
+> Ready to train.
+
+> Epoch 1/100 | Loss: 2.413
+> Epoch 2/100 | Loss: 1.822
+> Epoch 3/100 | Loss: 1.105
+> Epoch 4/100 | Loss: 0.512  # Looking good!
+> Epoch 5/100 | Loss: 0.104  # We're gonna be rich!
+> Epoch 6/100 | Loss: NaN    # Wait, what?
+
+FATAL ERROR: CUDA Out of Memory.
+Your AWS bill is $14,250. Game Over.
+```
 
 ---
-
-## 🚀 What I Do
-
-🏥 **Medical AI** — Computer vision systems for healthcare diagnostics (93% accuracy)  
-📊 **Machine Learning** — End-to-end ML pipelines with explainability  
-📈 **Algorithmic Trading** — Quantitative strategies for crypto & Indian markets  
-🌍 **Environmental AI** — Satellite imagery analysis for deforestation monitoring  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, SQL, JavaScript  
-**ML/DL:** TensorFlow, PyTorch, Scikit-learn, XGBoost, YOLO  
-**Computer Vision:** OpenCV, U-Net, Attention Networks  
-**NLP:** HuggingFace Transformers, BERT  
-**Trading:** Binance API, Zerodha Kite, Backtesting  
-**Deployment:** Gradio, Streamlit, Flask  
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Pneumonia Detector**](https://github.com/varunrana04/X-Ray-Image-and-Report-Generation) | Automated X-ray diagnosis with 93% accuracy + NLP report generation | YOLOv8, Transformers, Gradio |
-| [**Stomach Disease Detection**](https://github.com/varunrana04/Binary-Classifiacation-Ulcer-Detection-Model) | Polyp & ulcer detection from endoscopy images | YOLO11L, Medical AI |
-| [**Tree-Sight**](https://github.com/varunrana04/Tree-Sight-Forest-Detection) | Satellite imagery analysis for deforestation monitoring | CNN, Remote Sensing |
-| [**PredictIQ**](https://github.com/varunrana04/Sales-Forecasting-Model) | M5 Competition sales forecasting with hierarchical time-series | XGBoost, LightGBM |
-| [**FraudShield**](https://github.com/varunrana04/Credit-Card-Fraud) | Credit card fraud detection on imbalanced data | Ensemble Methods |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunrana04&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-varunrana.business%40gmail.com-red?style=flat&logo=gmail)](mailto:varunrana.business@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Rana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varun-rana-771a9917a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-purple?style=flat&logo=google-chrome)](https://varun-portfolio-eta.vercel.app/)
-
----
-
-*Open to opportunities in Data Science, AI/ML Engineering, and Quantitative Trading. Can relocate anywhere globally.*
+<div align="center">
+  <sub>the best code is the code never written. (the best AI engineer is the one you just hired. *cough*)</sub>
+</div>
