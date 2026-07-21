@@ -1,78 +1,62 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
 
-  <h1><code>varun_rana<span class="cursor">_</span></code></h1>
+  <h1><code>Hey there! I'm Varun Rana 👋</code></h1>
   
-  <p><b>He trains the models. They occasionally don't hallucinate.</b></p>
+  <p><b>Machine Learning Engineer | Quantitative Analytics | Computer Vision</b></p>
   
   <p>
-    <code>Machine Learning Engineer</code> | <code>Quantitative Analytics & Computer Vision</code> | <code>BU MS Data Science '27</code>
+    Building production-grade AI systems, writing clean Python, and spending 80% of my time reshaping tensors because <code>RuntimeError: size mismatch</code> is my mortal enemy.
   </p>
 
   <p>
     <a href="https://varun-portfolio-h2j30sixl-varun-ranas-projects-1ec5cf38.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&color=00ff00&logoColor=000000" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&color=10b981&logoColor=000000" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/varun-rana-771a9917a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-HIRE_ME-blue?style=for-the-badge&logo=linkedin&color=0077b5" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0ea5e9" alt="LinkedIn" />
     </a>
   </p>
 </div>
 
 <br>
 
-## `##` the_whole_idea
+### 🧠 What I'm up to:
+- 🔭 **Currently Building**: Complex CV pipelines and trading algorithms that don't just work in notebooks, but in the real world.
+- 🌱 **Currently Exploring**: Advanced RAG architectures, LLM Agent orchestration, and optimizing models for edge inference.
+- 👨‍💻 **My Philosophy**: Data quality > Model complexity. I prefer a well-tuned XGBoost model over a poorly implemented 100B parameter LLM.
+- ⚡ **Fun Fact**: I can debug a PyTorch training loop faster than I can decide what to have for dinner.
 
-I build "intelligent systems" (which is a fancy way of saying I babysit Python scripts while they download 40GB of pip dependencies). 
+<br>
 
-I specialize in crafting production-ready AI solutions and convincing stakeholders that we don't need a 70B parameter foundational model to predict if it's going to rain. 
-
-```diff
-- class EnterpriseAICloudBlockchainSynergy(Dataset):
--     def __init__(self, data):
--         # ChatGPT wrote this in 2023.
--         # I don't know what it does but I'm afraid to delete it.
--         self.data = data.apply(lambda x: x * 0) # wait what
-+ from transformers import pipeline
-+ classifier = pipeline("sentiment-analysis")
-```
-*> // same behavior. less enterprise jargon. zero chance of accidentally deleting the production database.*
-
-## `##` the_ladder
-
-Stop at the first model that holds.
-
-- **01. Does this need AI?** Can we just use an Excel VLOOKUP and go to lunch? Skip it.
-- **02. Does a regex solve it?** Use regex. If you now have two problems, use a switch statement.
-- **03. Does XGBoost solve it?** Use XGBoost. Don't add a 70 Billion parameter dependency just to sort an array.
-- **04. Only then:** Sell your kidney, rent an A100 GPU cluster, and pray the loss curve goes down. *(Or just hire me to do it properly).*
-
-## `##` tech_stack
+### 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tf,scikitlearn,opencv,docker,git,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tf,scikitlearn,opencv,pandas,docker,git,bash,aws,gcp,linux&theme=dark" />
 </div>
 
 <br>
 
-## `##` realistic_ai_simulator.exe
+### 📊 GitHub Stats
 
-```bash
-> Initialize A100 GPU cluster...
-> Loading 70B parameter model...
-> Ready to train.
-
-> Epoch 1/100 | Loss: 2.413
-> Epoch 2/100 | Loss: 1.822
-> Epoch 3/100 | Loss: 1.105
-> Epoch 4/100 | Loss: 0.512  # Looking good!
-> Epoch 5/100 | Loss: 0.104  # We're gonna be rich!
-> Epoch 6/100 | Loss: NaN    # Wait, what?
-
-FATAL ERROR: CUDA Out of Memory.
-Your AWS bill is $14,250. Game Over.
-```
-
----
 <div align="center">
-  <sub>the best code is the code never written. (the best AI engineer is the one you just hired. *cough*)</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=varunrana04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Varun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunrana04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+### 🚀 Highlighted Repositories
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Pneumonia_Detector](https://github.com/varunrana04/X-Ray-Image-and-Report-Generation)** | Automated radiology diagnostic system achieving 93% accuracy combining YOLOv8 and NLP. | `YOLOv8` `Transformers` |
+| **[FinGradeAI](https://github.com/varunrana04/FinGradeAI)** | Multi-agent financial analyst built with LangGraph to process global financial news. | `LangGraph` `FinBERT` |
+| **[QuantEdge_Trading](https://github.com/varunrana04)** | Dual-market algorithmic trading engine hitting Binance and Zerodha Kite APIs. | `Python` `Trading` |
+| **[GastroVision](https://github.com/varunrana04/Ployp-Stomach-Ulcer-Detection-Model)** | Deep learning system for stomach ulcer detection utilizing YOLO11L. | `YOLO11L` `OpenCV` |
+
+<br>
+
+<div align="center">
+  <i>"Garbage in, garbage out... but if you add enough hidden layers, you can at least call it Deep Garbage."</i>
 </div>
