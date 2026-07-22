@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://varun-portfolio-h2j30sixl-varun-ranas-projects-1ec5cf38.vercel.app/" target="_blank">
+    <a href="https://varun-portfolio-eta.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&color=10b981&logoColor=000000" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/varun-rana-771a9917a/" target="_blank">
@@ -42,7 +42,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Pneumonia_Detector](https://github.com/varunrana04/X-Ray-Image-and-Report-Generation)** | Automated radiology diagnostic system achieving 93% accuracy combining YOLOv8 and NLP. | `YOLOv8` `Transformers` |
-| **[FinGradeAI](https://github.com/varunrana04/FinGradeAI)** | Multi-agent financial analyst built with LangGraph to process global financial news. | `LangGraph` `FinBERT` |
+| **[FinGradeAI](https://github.com/varunrana04/FinSight_AI)** | Multi-agent financial analyst built with LangGraph to process global financial news. | `LangGraph` `FinBERT` |
 | **[QuantEdge_Trading](https://github.com/varunrana04)** | Dual-market algorithmic trading engine hitting Binance and Zerodha Kite APIs. | `Python` `Trading` |
 | **[GastroVision](https://github.com/varunrana04/Ployp-Stomach-Ulcer-Detection-Model)** | Deep learning system for stomach ulcer detection utilizing YOLO11L. | `YOLO11L` `OpenCV` |
 
